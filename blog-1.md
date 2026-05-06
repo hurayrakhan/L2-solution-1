@@ -1,4 +1,4 @@
-# Why `unknown` is better than `any` in TypeScript
+# Question 1: Why `unknown` is better than `any` in TypeScript
 
 ## Introduction
 When we first start learning TypeScript, we often feel frustrated when we don't know what type to give a variable. To fix the error quickly, many beginners use `any`. While this works, it actually defeats the purpose of using TypeScript. In this post, we will explore why `any` is risky and why `unknown` is a much safer alternative.

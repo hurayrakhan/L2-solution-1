@@ -1,4 +1,4 @@
-# Understanding TypeScript Generics for Beginners
+# Question 3: Generics 
 
 ## Introduction
 Have you ever written a function that only works with numbers, only to realize you need the exact same logic for strings? In regular JavaScript, this isn't an issue, but in TypeScript, we want to keep our types strict. This is where **Generics** come in.
