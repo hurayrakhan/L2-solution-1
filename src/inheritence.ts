@@ -1,0 +1,1 @@
+// this is the first pillar of OOP in TypeScript
