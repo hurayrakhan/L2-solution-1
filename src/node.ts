@@ -1,0 +1,3 @@
+//  node js is a runtime environment that allows you to run JavaScript code outside of a web browser. It is built on the V8 JavaScript engine, which is the same engine used by Google Chrome. Node.js provides an event-driven, non-blocking I/O model that makes it efficient and suitable for building scalable network applications. It is commonly used for server-side development, allowing developers to create web servers, APIs, and other backend services using JavaScript.
+
+//  To use Node.js, you need to install it on your machine. Once installed, you can run JavaScript files using the `node` command in your terminal. For example, if you have a file named `app.js`, you can run it with the following command:
